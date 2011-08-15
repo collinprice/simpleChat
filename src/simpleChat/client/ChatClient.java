@@ -3,7 +3,7 @@ package simpleChat.client;
 /**
  * Author: Collin Price
  * Contact: collin.price@gmail.com
- * Blog: collinprice.wordpress.com
+ * Blog: collinprice.com
  * Twitter: twitter.com/collinprice
  */
 
